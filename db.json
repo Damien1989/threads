@@ -5,8 +5,53 @@
             "users_uuid": "e1076997-b983-4840-b92b-de1690ebbd63",
             "username": "Damien",
             "handle": "damiendiaz",
-            "bio": "Je suis un développeur web passionné d'IA"
+            "bio": "Je suis un développeur web passionné d'IA",
+            "followers": [
+                {
+                    "users_uuid": "40ba985e-0c30-46fa-95fa-6bafc5816867"
+                },
+                {
+                    "users_uuid": "7664ec25-ed4f-4a55-854b-40a3c41d981b"
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "users_uuid": "40ba985e-0c30-46fa-95fa-6bafc5816867",
+            "username": "Bobby Burger",
+            "handle": "bobbyburger",
+            "bio": "Vive les burgers",
+            "img": "https://imgur.com/gallery/R72rW81",
+            "followers": [
+                {
+                    "users_uuid": "40ba985e-0c30-46fa-95fa-6bafc5816867"
+                },
+                {
+                    "users_uuid": "7664ec25-ed4f-4a55-854b-40a3c41d981b"
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "users_uuid": "7664ec25-ed4f-4a55-854b-40a3c41d981b",
+            "username": "Joe Valesi",
+            "handle": "joevalesi",
+            "bio": "Joe le Loveur",
+            "img": "https://imgur.com/gallery/R72rW81",
+            "followers": [
+                {
+                    "users_uuid": "40ba985e-0c30-46fa-95fa-6bafc5816867"
+                },
+                {
+                    "users_uuid": "7664ec25-ed4f-4a55-854b-40a3c41d981b"
+                }
+            ]
         }
+
+
+
     ],
 
     "threads": [
