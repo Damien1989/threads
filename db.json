@@ -1,0 +1,15 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "users_uuid": "e1076997-b983-4840-b92b-de1690ebbd63",
+            "username": "Damien",
+            "handle": "damiendiaz",
+            "bio": "Je suis un développeur web passionné d'IA"
+        }
+    ],
+
+    "threads": [
+
+    ]
+}
